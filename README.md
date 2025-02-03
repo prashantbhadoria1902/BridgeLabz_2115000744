@@ -21,3 +21,9 @@ Today's Summary:
 1. Class and Object Usage: The code defines multiple classes (e.g., Book, Student, BankAccount, etc.), each with attributes and methods to model real-world entities.
 2. Encapsulation and Access Modifiers: Private (private), protected (protected), and public (public) access modifiers are used to restrict direct access to class attributes and enforce controlled access through getter and setter methods.
 3. Inheritance and Constructor Overloading: Subclasses (e.g., PostgraduateStudent, EBook, SavingsAccount, Manager) extend base classes to inherit properties, and constructor overloading is used to initialize objects with default and parameterized values.
+
+04/02/2025
+Summary:
+1. Static Features – Shared variables (e.g., bank name, library name, discount) and methods to manage global properties.
+2. Final Variables – Ensures unique identifiers (e.g., account number, ISBN, product ID) remain unchanged.
+3. Instanceof Validation – Confirms object type before processing details.
