@@ -27,3 +27,11 @@ Overall Summary:
 1. Static Features – Shared variables (e.g., bank name, library name, discount) and methods to manage global properties.
 2. Final Variables – Ensures unique identifiers (e.g., account number, ISBN, product ID) remain unchanged.
 3. Instanceof Validation – Confirms object type before processing details.
+
+# 05/02/2025
+1. Class Diagram
+2. Object Diagram
+3. Sequence Diagram
+4. Relationship- Aggregation, Composition and Association
+Problem Statement: a. UML Diagrams-School Results Application and Grocery Store Bill Generation Application
+                   b. Object Modeling: Library and Books (Aggregation), Bank and Account Holders (Association), Company and Departments (Composition), School and Students with Courses (Association and Aggregation), University with Faculties and Departments (Composition and Aggregation), Hospital, Doctors, and Patients (Association and Communication), E-commerce Platform with Orders, Customers, and Products, University Management System
