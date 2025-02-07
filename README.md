@@ -36,3 +36,11 @@ Overall Summary:
 
 Problem Statement: a. UML Diagrams-School Results Application and Grocery Store Bill Generation Application
                    b. Object Modeling: Library and Books (Aggregation), Bank and Account Holders (Association), Company and Departments (Composition), School and Students with Courses (Association and Aggregation), University with Faculties and Departments (Composition and Aggregation), Hospital, Doctors, and Patients (Association and Communication), E-commerce Platform with Orders, Customers, and Products, University Management System
+
+# 07/02/2025
+1. Single level Inheritance
+2. Multi level Inheritance
+3. Hybrid Inheritance
+4. Hierarchical inheritance
+
+Problem Statement: Animal Hierarchy,Employee Management System, Vehicle and Transport System, Library Management with Books and Authors, Smart Home Devices, Online Retail Order Management, Educational Course Hierarchy, Bank Account Types, School System with Different Roles, Restaurant Management System with Hybrid, Vehicle Management System with Hybrid Inheritance,  
