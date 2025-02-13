@@ -1,7 +1,7 @@
 import java.util.*;
 
 class CustomHashMap<K, V> {
-    private static final int SIZE = 16;
+    private static final int SIZE = 16 ;
     private List<Entry<K, V>>[] map;
 
     static class Entry<K, V> {
