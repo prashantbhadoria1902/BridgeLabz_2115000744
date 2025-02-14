@@ -11,7 +11,7 @@ public class HeapSort {
         for (int i = n - 1; i > 0; i--) {
             int temp = salaries[0];
             salaries[0] = salaries[i];
-            salaries[i] = temp;
+            salaries[i] = temp ;
 
             heapify(salaries, i, 0);
         }
