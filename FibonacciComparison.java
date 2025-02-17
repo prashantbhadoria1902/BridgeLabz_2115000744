@@ -1,6 +1,6 @@
 public class FibonacciComparison {
     public static void main(String[] args) {
-        int[] testCases = {10, 30, 50};
+        int[] testCases = {10, 30, 50} ;
 
         for (int n : testCases) {
             System.out.println("Fibonacci (" + n + ")");
