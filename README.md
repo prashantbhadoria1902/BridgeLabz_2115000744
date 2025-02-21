@@ -43,4 +43,28 @@ Problem Statement: a. UML Diagrams-School Results Application and Grocery Store 
 3. Hybrid Inheritance
 4. Hierarchical inheritance
 
-Problem Statement: Animal Hierarchy,Employee Management System, Vehicle and Transport System, Library Management with Books and Authors, Smart Home Devices, Online Retail Order Management, Educational Course Hierarchy, Bank Account Types, School System with Different Roles, Restaurant Management System with Hybrid, Vehicle Management System with Hybrid Inheritance,  
+Problem Statement: Animal Hierarchy,Employee Management System, Vehicle and Transport System, Library Management with Books and Authors, Smart Home Devices, Online Retail Order Management, Educational Course Hierarchy, Bank Account Types, School System with Different Roles, Restaurant Management System with Hybrid, Vehicle Management System with Hybrid Inheritance
+
+# 10/02/2025
+1. Interface: Defines a contract in OOP, specifying methods that a class must implement without providing their implementation. It enables abstraction and multiple inheritance in Java.
+2. Encapsulation: Restricts direct access to an object's data by using access modifiers (private, protected, public), ensuring data security and integrity. It promotes modularity and maintainability. 
+3. Relation: Interfaces provide abstraction, while encapsulation hides data. Together, they enhance code reusability, maintainability, and security in object-oriented programming.
+
+Problem Statement: BankingSystem, ECommerce Platform, Employee Management, Hospital Management System, Library Management System, Online Delivery System, Ride Hailing System, Vehicle Rental System
+
+# 12/02/2025
+1. Definition: A LinkedList is a linear data structure consisting of nodes, where each node contains data and a reference to the next node (Singly LinkedList) or both next and previous nodes (Doubly LinkedList). 
+2. Advantages: Efficient insertions and deletions (O(1) at the head or tail), dynamic size allocation, and better memory utilization compared to arrays for frequent modifications. 
+3. Disadvantages: Higher memory usage due to extra pointers, slower access time (O(n) for searching), and complex implementation compared to arrays.
+
+Problem Statement: Inventory, Library, Movie LinkedList, Round Robin Scheduler, Student Linked List, Task Scheduler, Text Editor, Ticket Reservation System, User.
+
+# 13/02/2025
+1. HashMap: A key-value data structure offering O(1) average-time complexity for insertions, deletions, and lookups, but with unordered storage and potential hash collisions. 
+2. Stack: A LIFO (Last In, First Out) data structure with O(1) push and pop operations, commonly used in recursion, backtracking, and expression evaluation, but has limited element access. 
+3. Queue: A FIFO (First In, First Out) data structure used in scheduling, resource management, and BFS, efficient for insertions and deletions but with limited random access.
+
+Problem Statement: a. HashMap: CustomHashMap, Longest Consecutive Sequence, Pair with given Sum, Two Sum, Zero Sum Subarrays
+                   b. Circular Tour, Queue using Stack, Sliding Window Max, Sort Stack Recursively, Stock Span
+
+# 14/02/2025
