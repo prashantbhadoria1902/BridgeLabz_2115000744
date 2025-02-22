@@ -116,3 +116,10 @@ Problem Statement: Banking System, Insurance Policy System, Shopping Cart, Votin
 
 Problem Statement: Age Verification, Array Operation, Bank Transaction System, Division, Division Calculator, Exception Propagation, File Read, File Reader Example, Interest Calculator, Nested Try Catch, 
                    Convert Image to Byte Array, File Copy, File Handling, Large File Error Reader, Piped Stream Communication, Read Write, Student Data Handler, Upper to Lower Case Converter, Word Frequency Counter  
+
+# 22/02/2025
+1. Regex-Based Assertions in JUnit – Use Assertions.assertTrue(str.matches(regex)) to validate string patterns like emails, dates, and phone numbers. 
+2. Parameterized Testing with Regex – Use @ParameterizedTest with @ValueSource to test multiple inputs against a regex pattern efficiently. 
+3. Regex Validation in Exception Handling – Use assertThrows() with regex to verify exception messages match expected patterns.
+
+Problem Statement: @BeforeEach & @AfterEach Testing, Parameterized Tests, Performance Testing Using @Timeout, Testing File Handling Methods, Banking Transactions Testing, Password Strength Validator Testing, Temperature Converter Testing, Date Formatter Testing, User Registration Testing, Regex Email Validation, Regex Password Strength Validation, Regex Extracting Dates, Regex Phone Number Validation, Regex Finding Duplicate Words.
