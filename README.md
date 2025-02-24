@@ -123,3 +123,9 @@ Problem Statement: Age Verification, Array Operation, Bank Transaction System, D
 3. Regex Validation in Exception Handling – Use assertThrows() with regex to verify exception messages match expected patterns.
 
 Problem Statement: @BeforeEach & @AfterEach Testing, Parameterized Tests, Performance Testing Using @Timeout, Testing File Handling Methods, Banking Transactions Testing, Password Strength Validator Testing, Temperature Converter Testing, Date Formatter Testing, User Registration Testing, Regex Email Validation, Regex Password Strength Validation, Regex Extracting Dates, Regex Phone Number Validation, Regex Finding Duplicate Words.
+
+# 24/02/2025
+1. Annotations provide metadata for code, influencing compilation, runtime behavior, and documentation.
+2. Custom Annotations enable specialized processing using reflection, aiding validation, logging, and access control.
+3. Dynamic Inspection & Modification: Reflection allows inspecting and modifying classes, methods, and fields at runtime, enabling features like dependency injection and serialization.
+4. Performance & Security Concerns: Reflection is slower than direct access and can break encapsulation, making it less efficient and potentially risky if not used carefully.
