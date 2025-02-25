@@ -129,3 +129,9 @@ Problem Statement: @BeforeEach & @AfterEach Testing, Parameterized Tests, Perfor
 2. Custom Annotations enable specialized processing using reflection, aiding validation, logging, and access control.
 3. Dynamic Inspection & Modification: Reflection allows inspecting and modifying classes, methods, and fields at runtime, enabling features like dependency injection and serialization.
 4. Performance & Security Concerns: Reflection is slower than direct access and can break encapsulation, making it less efficient and potentially risky if not used carefully.
+
+# 25/02/2025
+1. CSV Processing in Java – Read, write, filter, and modify CSV files using Java's BufferedReader and
+BufferedWriter. Implement functionalities like counting records, searching, and updating values.
+2. Advanced CSV Operations – Sort records, validate data (e.g., email and phone formats), detect duplicates, and convert data between CSV, JSON, and Java objects (List<Student>).
+3. Efficiency & Security – Handle large CSV files efficiently (e.g., reading in chunks), merge multiple CSVs, and secure sensitive data through encryption/decryption while processing.
